@@ -10,7 +10,6 @@
 *
 * Return: 0 if execution has no errors
 */
-
 int main(void)
 {
 	int n;
